@@ -1,3 +1,6 @@
+# DEPRECATED
+This package is now developed in https://github.com/dvelasquez/carbon-tools
+
 # CO2-extension (WORK IN PROGRESS)
 This is a Chrome Extension that calculates the amount of co2 released to the atmosphere by transferring
 the page assets over the network.
